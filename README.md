@@ -8,48 +8,48 @@ https://github.com/chinmay-official/Footer-Credit-Blogger
 
 ## Features of SeoBoost Responsive Blogger Template:
 
-Fully Responsive Design
+ Fully Responsive Design
 
-Fully SEO Optimized
+ Fully SEO Optimized
 
-Mobile Friendly Design
+ Mobile Friendly Design
 
-Support Youtube thumbnail
+ Support Youtube thumbnail
 
-Advance Search Engine Optimization
+ Advance Search Engine Optimization
 
-Auto resize thumbnail image
+ Auto resize thumbnail image
 
-Tabbed Menu
+ Tabbed Menu
 
 
-Well Online Documentation
+ Well Online Documentation
 
-Random posts
+ Random posts
+ 
+ Recent Comments
 
-Recent Comments
+ Threaded Comment
 
-Threaded Comment
+ Multiple comment system
 
-Multiple comment system
+ Recent Post By Label
 
-Recent Post By Label
+ Related posts support
 
-Related posts support
+ Advertisements Compatibility 
 
-Ads Ready
+ Auto Author Image
 
-Auto Author Image
+ Newsletter Subscription
 
-Newsletter Subscription
+ Custom Error 404 Page
 
-Custom Error 404 Page
+ Blogger news templates
 
-Blogger news templates
+ Compatible with major browsers (IE8+,Mozilla,Chrome,Safari)
 
-Compatible with major browsers (IE8+,Mozilla,Chrome,Safari)
-
-Professional admin layout, help you easy work with blog layout.
+ Professional admin layout, help you easy work with blog layout.
 
 
 [![ko-fi](https://getsiteglue.com/wp-content/uploads/2018/04/demo-button.png)](https://www.factsprime.com/)
