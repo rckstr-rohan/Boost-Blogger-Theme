@@ -1,0 +1,2 @@
+# Boost-Blogger-Theme
+With search engines in mind such as Google and Bing, we created the responsive theme SEO Boost. It is a perfect responsive and gorgeous SEO friendly and SEO optimized Blogger Template. Seo Boost is coded in a new way, where it loads everything async and have carefully enqueued scripts so it loads as quickly as possible. It is specially designed for any kind of newspaper, blog, magazine, portal and personal type website.
